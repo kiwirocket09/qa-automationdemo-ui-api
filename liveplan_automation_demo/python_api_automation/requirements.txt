@@ -1,0 +1,7 @@
+# Data Generation & Scripting
+pandas==2.0.3
+pytest==7.4.0
+
+# API Testing (for the python_api_automation folder)
+requests==2.31.0
+pytest-html==4.0.2
