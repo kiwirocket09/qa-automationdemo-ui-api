@@ -8,12 +8,12 @@ This repository is a collection of my automation practices
 * `python_api_automation/`: Pytest scripts for backend API validation.
 * `sql_scripts/`: SQL seed generators and sample test datasets.
 * 
-### `ui_automation_java/`: Offline Sync (BDD)
+### ui_automation_java: Offline Sync (BDD)
 * **Scenario**: Verify data integrity and synchronization once the network connection is restored.
 * **Tools**: Cucumber + Selenium **Robot Class**.
 * **Key Solution**: Implemented the **Robot Class** for file uploads to bypass limitations where standard `sendKeys` was not working
 
-### 3. Financial Forecast (Playwright)
+### liveplan_automation_demo: Financial Forecast (Playwright)
 * **Tool**: Playwright Java.
 * **Features**:
     * **Visual Testing**: Integrated with **Percy** for visual regression detection.
@@ -23,3 +23,4 @@ This repository is a collection of my automation practices
 * **Languages**: Java, Python.
 * **Frameworks**: Selenium, Playwright, Cucumber, Pytest.
 * **Others**: Maven, Percy (Visual UI), Robot Class, SQL.
+
